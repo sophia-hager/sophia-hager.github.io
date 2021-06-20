@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-I'm a computer science major (Class of 2022!) at Smith College, a historically women's college in western Massachusetts. My main interest is machine learning, particularly generation tasks- I'm hoping to do my senior thesis on music generation. 
+I'm a rising senior and computer science major (Class of 2022) at Smith College, a historically women's college in western Massachusetts. My main interest is machine learning, particularly generation tasks- I'm hoping to do my senior thesis on music generation. 
 
 ## About My Mentor
 
