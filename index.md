@@ -12,7 +12,7 @@ I'm a computer science major (Class of 2022!) at Smith College, a historically w
 
 ## About My Mentor
 
-My mentor is [Maja Mataric](https://robotics.usc.edu/~maja/), from the Interactions Lab at University of Southern California. [The Interactions Lab](https://uscinteractionlab.web.app) focuses on socially assistive robotics, a field that aims to design robots to help people without physically contacting them. I'm also working with [Nathan Dennler](https://ndennler.github.io), a PhD student in the Interactions Lab.
+My mentor is [Maja Mataric](https://robotics.usc.edu/~maja/), a professor of computer science, neuroscience, and pediatrics from the Interactions Lab at University of Southern California. [The Interactions Lab](https://uscinteractionlab.web.app) focuses on socially assistive robotics, a field that aims to design robots to help people without physically contacting them. I'm also working with [Nathan Dennler](https://ndennler.github.io), a PhD student in the Interactions Lab.
 
 ## About My Project
 
