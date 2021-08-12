@@ -16,7 +16,8 @@ My mentor is [Maja Mataric](https://robotics.usc.edu/~maja/), a professor of com
 
 ## About My Project
 
-The goal of my project is to generate an array of texts where one "axis" that they vary on is length and the other is level of politeness. Ideally, if that goes well, the secondary objective is to be able to specify a length and/or level of politeness and generate text with those specific hyperparameters.
+The goal of my project is to generate an array of texts where one "axis" that they vary on is length and the other is the sentiment of a review. Through Pyribs, a python package, I use quality diversity algorithms to create sentences that prioritizes finding multiple good sentences that fit into multiple categories, rather than one singular "best" sentence.
+
 
 [My Final Report](files/finalreport.pdf)
 
