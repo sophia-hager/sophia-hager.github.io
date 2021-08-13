@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-color: #D5CEEE;
+	background-color: #E8E8FC;
   font: 18px/1.4 $helvetica;
   color: #202020;
 }
@@ -123,11 +123,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: #E6E6FA;
+  background: #D5CEEE;
 }
 ::selection {
   color: $black;
-  background: #E6E6FA;
+  background: #D5CEEE;
 }
 
 // Nicolas Gallagher's micro clearfix hack
