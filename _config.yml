@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : Sophia Hager
   pronouns         : she/her  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student at the Center for Language and Speech Processing"
   employer         : "Johns Hopkins University"
   uri              : # URL
   email            : "shager2@jh.edu" 
@@ -198,18 +198,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  #teaching:
+    #output: true
+    #permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+    #output: true
+    #permalink: /:collection/:path/
+  #talks:
+    #output: true
+    #permalink: /:collection/:path/
 
 
 # Defaults
@@ -260,13 +260,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  #- scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
