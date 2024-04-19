@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : Sophia Hager
-  pronouns         : she/her  
+  pronouns         : #she/her  
   bio              : "PhD Student at the Center for Language and Speech Processing"
   employer         : "Johns Hopkins University"
   uri              : # URL
