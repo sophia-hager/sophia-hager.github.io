@@ -1,72 +1,41 @@
-This is a template DREU project site. You can start with this and modify it in any way you like, so long as it is still hosted in a git repository.
 
-## Quick Start
+# Academic Pages
 
-### Step 1) Get a GitHub account
+![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-Go to github.com and sign up for a free account. Let's assume you sign up for an account with username "myname".
+Academic Pages is a Github Pages template for academic websites.
 
-### Step 2) Copy this site to your GitHub account
 
-Sign into your github account.
+# Getting Started
 
-From this repo, click the "Fork" button at the top right hand of the window.
-A copy of this repository will be made in your own github account.
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Click the "Use this template" button in the top right.
+1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and add your content.
+1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-### Step 3) Rename the repository
+See more info at https://academicpages.github.io/
 
-In "myname/dreuprojecttemplate", click on "Settings" near the top right hand of the window. Change the repository name from "dreuprojecttemplate" to to "myname.github.io". ("myname" must match your GitHub user name exactly.)
+## Running Locally
 
-Scroll down til you see "GitHub pages" and choose "Master" instead of "None".
+When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
-If you already have a GitHub site, then you can make this a project site rather than your personal site.
+1. Clone the repository and made updates as detailed above.
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-### Step 4) Customize and view your site
 
-Set up your site name, description, avatar and many other options by editing the _config.yml file. 
+# Maintenance 
 
-To edit, click on the file link and then click on the little pencil icon in the top right. When you are done, scroll down and click "Commit".
+Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
-To add your own image, do the following:
-* upload your image into the "images" directory, by going to the "images" directory and clicking the "Upload File" button. Let's say you upload "yourimage.png". Don't forget to Commit!
-* modify the avatar line in _config.yml to say "https://myname.github.io/images/yourimage.png". Don't forget to Commit!
+This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
 
-Your site will typically be viewable within 5 minutes at <https://myname.github.io>.
+## Bugfixes and enhancements
 
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable within 5 minutes at <https://myname.github.io>.
+If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
 
-> There are 3 different ways that you can make changes to your site:
-
-> 1. Edit files within your repository in the browser at GitHub.com.
-> 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
-> 3. Clone down your repository and make updates locally, then push them to your GitHub repository. For more on how to "clone down", see [Github pointers](https://help.github.com/en/github/getting-started-with-github).
-
-### Step 5) Publish your first blog post
-
-Edit `/_posts/2020-06-01-week1.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md.
-
-## Modify the Style
-
-You can modify the look and feel of your site by modifying style.scss.
-
-## Local Development
-
-If you want to edit your website on your own computer rather than at GitHub.com, follow these instructions.
-
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork: `git clone https://github.com/myname/myname.github.io.git`.
-3. Serve the site locally on your computer: `jekyll serve`.
-4. View your website at http://127.0.0.1:4000/.
-5. Commit any changes and push everything to the master branch of your GitHub user repository: `git commit -m "message here"`; then `git push -u origin master`. GitHub Pages will then rebuild and serve your website publicly.
-
-## Additional Tips and Help
-
-- [GitHub pointers](https://help.github.com/en/github/getting-started-with-github)
-- [GitHub pages](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
-- [Markdown](https://www.markdownguide.org/basic-syntax#links)
-- [Jekyll](https://jekyllrb.com)
-- [Jekyll tips](https://devhints.io/jekyll)
-
-This site is based on [Jekyll Now](https://github.com/barryclark/jekyll-now).
+Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
