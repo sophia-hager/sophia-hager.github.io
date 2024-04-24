@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-About
+About Me
 ---
-I'm a second-year PhD student at Johns Hopkins University advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and [Kevin Duh](https://www.cs.jhu.edu/~kevinduh/). My main research interests are in long-form text generation and controllable text generation. 
+I'm a second-year PhD student at Johns Hopkins University advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and [Kevin Duh](https://www.cs.jhu.edu/~kevinduh/). My general research interest is controllable text generation and reasoning for language models; currently, I'm working on style-controlled generation and tool use for large language models. I recieved my BA in computer science from Smith College, where I worked with controllable music generation.
 
 Publications
 ---
