@@ -9,11 +9,16 @@ redirect_from:
 
 About Me
 ---
-I'm a second-year PhD student at Johns Hopkins University advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and [Kevin Duh](https://www.cs.jhu.edu/~kevinduh/). My general research interest is controllable text generation and reasoning for language models; currently, I'm working on style-controlled generation and tool use for large language models. I recieved my BA in computer science from Smith College, where I worked on controllable music generation.
+I'm a second-year PhD student at Johns Hopkins University advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and [Kevin Duh](https://www.cs.jhu.edu/~kevinduh/). My general research interest is controllable text generation and reasoning for language models; currently, I'm working on style-controlled generation and tool use for large language models. I received my BA in computer science from Smith College, where I worked on controllable music generation.
 
 Publications
 ---
+**2024**
 
+- [Generating Music with Structure Using Self-Similarity as Attention](https://arxiv.org/pdf/2406.15647) (arXiv preprint)
+
+  Sophia Hager, Kathleen Hablutzel, Katherine M. Kinnaird
+  
 **2023**
 
 - [Learning to Generate Text in Arbitrary Writing Styles](https://arxiv.org/abs/2312.17242) (arXiv preprint)
