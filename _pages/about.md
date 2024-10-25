@@ -14,6 +14,8 @@ I'm a third-year PhD student at Johns Hopkins University advised by [Nicholas An
 Publications
 ---
 **2024**
+- Learning to Generate Verbalized Confidences (SFLLM @ NeurIPS, 2024)
+  Sophia Hager, Nicholas Andrews
 
 - [Generating Music with Structure Using Self-Similarity as Attention](https://arxiv.org/pdf/2406.15647) (arXiv preprint)
 
