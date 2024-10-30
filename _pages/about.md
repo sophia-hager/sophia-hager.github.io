@@ -14,7 +14,7 @@ I'm a third-year PhD student at Johns Hopkins University advised by [Nicholas An
 Publications
 ---
 **2024**
-- Learning to Generate Verbalized Confidences (SFLLM @ NeurIPS, 2024)
+- [Learning to Generate Verbalized Confidences](https://neurips.cc/virtual/2024/105604) (SFLLM @ NeurIPS, 2024)
 
   Sophia Hager, Nicholas Andrews
 
