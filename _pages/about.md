@@ -13,19 +13,24 @@ I'm a third-year PhD student at Johns Hopkins University advised by [Nicholas An
 
 Publications
 ---
+**2025**
+- [Uncertainty Distillation: Teaching Language Models to Express Semantic Uncertainty](https://arxiv.org/pdf/2503.14749) (arXiv preprint)
+
+  *Sophia Hager*, David Mueller, Kevin Duh, Nicholas Andrews
+
 **2024**
 - [Learning to Generate Verbalized Confidences](https://neurips.cc/virtual/2024/105604) (SFLLM @ NeurIPS, 2024)
 
-  Sophia Hager, Nicholas Andrews
+  *Sophia Hager*, Nicholas Andrews
 
 - [Generating Music with Structure Using Self-Similarity as Attention](https://arxiv.org/pdf/2406.15647) (arXiv preprint)
 
-  Sophia Hager, Kathleen Hablutzel, Katherine M. Kinnaird
+  *Sophia Hager*, Kathleen Hablutzel, Katherine M. Kinnaird
   
 **2023**
 
 - [Learning to Generate Text in Arbitrary Writing Styles](https://arxiv.org/abs/2312.17242) (arXiv preprint)
 
-  Aleem Khan, Andrew Wang, Sophia Hager, Nicholas Andrews
+  Aleem Khan, Andrew Wang, *Sophia Hager*, Nicholas Andrews
 
 
