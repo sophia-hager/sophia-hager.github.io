@@ -15,7 +15,11 @@ I'm a third-year PhD student at Johns Hopkins University advised by [Nicholas An
 Publications
 ---
 **2025**
-- Learning Extrapolative Sequence Transformations from Markov Chains (ICML 2025)
+- [Hell or High Water: Evaluating Agentic Recovery from External Failures](https://arxiv.org/abs/2508.11027) (COLM 2025)
+
+  Andrew Wang, **Sophia Hager**, Adi Asija, Daniel Khashabi, Nicholas Andrews
+
+- [Learning Extrapolative Sequence Transformations from Markov Chains](https://openreview.net/pdf?id=5d6Y7xxRMr) (ICML 2025)
 
   **Sophia Hager**, Aleem Khan, Andrew Wang, Nicholas Andrews
 
