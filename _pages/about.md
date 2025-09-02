@@ -6,10 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm a PhD student studying computer science at the Center for Language and Speech Processing at Johns Hopkins University, advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and [Kevin Duh](https://www.cs.jhu.edu/~kevinduh/). Previously, I received my BA in computer science from Smith College, where I worked on controllable music generation. I currently work in natural language processing; my general research interest is making large language models more reliable and safer. In particular, my recent work has been on uncertainty quantification and language model agents. 
 
-About Me
----
-I'm a third-year PhD student at Johns Hopkins University advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and [Kevin Duh](https://www.cs.jhu.edu/~kevinduh/). My general research interest is controllable text generation and reasoning for language models; currently, I'm working on uncertainty estimation and tool use for large language models. I received my BA in computer science from Smith College, where I worked on controllable music generation. 
 
 
 Publications
