@@ -13,6 +13,10 @@ I'm a PhD student studying computer science at the Center for Language and Speec
 Publications
 ---
 **2025**
+- [Does Local News Stay Local?: Online Content Shifts in Sinclair-Acquired Stations](https://arxiv.org/pdf/2510.07060?) (arXiv preprint)
+
+  Miriam Wanner†, **Sophia Hager†**, Anjalie Field († equal contribution)
+
 - [Hell or High Water: Evaluating Agentic Recovery from External Failures](https://arxiv.org/abs/2508.11027) (COLM 2025)
 
   Andrew Wang, **Sophia Hager**, Adi Asija, Daniel Khashabi, Nicholas Andrews
