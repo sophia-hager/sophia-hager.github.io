@@ -12,6 +12,11 @@ I'm a PhD student studying computer science at the Center for Language and Speec
 
 Publications
 ---
+**2026**
+- [RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale](https://arxiv.org/pdf/2604.01977) (arXiv preprint)
+  
+  Ayush Garg, **Sophia Hager**, Jacob Montiel, Aditya Tiwari, Michael Gentile, Zach Reavis, David Magnotti, Wayne Fullen
+
 **2025**
 - [Does Local News Stay Local?: Online Content Shifts in Sinclair-Acquired Stations](https://arxiv.org/pdf/2510.07060?) (arXiv preprint)
 
