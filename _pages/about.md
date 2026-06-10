@@ -13,14 +13,20 @@ I'm a PhD student studying computer science at the Center for Language and Speec
 Publications
 ---
 **2026**
+
+- [Inducing Artificial Uncertainty in Language Models](https://arxiv.org/abs/2605.13595) (arXiv preprint)
+  
+  **Sophia Hager**, Simon Zeng, Nicholas Andrews
+
+- [Does Local News Stay Local?: Online Content Shifts in Sinclair-Acquired Stations](https://arxiv.org/pdf/2510.07060?) (NLP-CSS @ ACL 2026)
+
+  Miriam Wanner†, **Sophia Hager†**, Anjalie Field († equal contribution)
+
 - [RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale](https://arxiv.org/pdf/2604.01977) (arXiv preprint)
   
   Ayush Garg, **Sophia Hager**, Jacob Montiel, Aditya Tiwari, Michael Gentile, Zach Reavis, David Magnotti, Wayne Fullen
 
 **2025**
-- [Does Local News Stay Local?: Online Content Shifts in Sinclair-Acquired Stations](https://arxiv.org/pdf/2510.07060?) (arXiv preprint)
-
-  Miriam Wanner†, **Sophia Hager†**, Anjalie Field († equal contribution)
 
 - [Hell or High Water: Evaluating Agentic Recovery from External Failures](https://arxiv.org/abs/2508.11027) (COLM 2025)
 
