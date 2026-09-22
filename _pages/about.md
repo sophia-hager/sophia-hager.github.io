@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fifth-year PhD student studying computer science at the Center for Language and Speech Processing at Johns Hopkins University, advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and [Kevin Duh](https://www.cs.jhu.edu/~kevinduh/). My general research interest is making large language models more reliable and safer. In particular, I'm interested in uncertainty quantification and how it can be used to improve reasoning and detect hallucinations before they reach an end user. Previously, I received my BA in computer science from Smith College, where I worked on controllable music generation.
+I'm a final year PhD student studying computer science at the Center for Language and Speech Processing at Johns Hopkins University, advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and [Kevin Duh](https://www.cs.jhu.edu/~kevinduh/). My general research interest is making large language models more reliable and safer. In particular, I'm interested in uncertainty quantification and how it can be used to improve reasoning and detect hallucinations before they reach an end user. Previously, I received my BA in computer science from Smith College, where I worked on controllable music generation.
 
 
 
@@ -14,7 +14,7 @@ Publications
 ---
 **2026**
 
-- [Inducing Artificial Uncertainty in Language Models](https://arxiv.org/abs/2605.13595) (arXiv preprint)
+- [Inducing Artificial Uncertainty in Language Models](https://arxiv.org/abs/2605.13595) (TMLR 2026)
   
   **Sophia Hager**, Simon Zeng, Nicholas Andrews
 
@@ -22,7 +22,7 @@ Publications
 
   Miriam Wanner†, **Sophia Hager†**, Anjalie Field († equal contribution)
 
-- [RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale](https://arxiv.org/pdf/2604.01977) (arXiv preprint)
+- [RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale](https://arxiv.org/pdf/2604.01977) (CAMLIS 2026)
   
   Ayush Garg, **Sophia Hager**, Jacob Montiel, Aditya Tiwari, Michael Gentile, Zach Reavis, David Magnotti, Wayne Fullen
 
