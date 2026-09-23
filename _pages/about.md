@@ -14,11 +14,11 @@ Publications
 ---
 **2026**
 
-- [Inducing Artificial Uncertainty in Language Models](https://arxiv.org/abs/2605.13595) (TMLR 2026)
+- [Inducing Artificial Uncertainty in Language Models](https://openreview.net/pdf?id=cUcWgu0wGU) (TMLR 2026)
   
   **Sophia Hager**, Simon Zeng, Nicholas Andrews
 
-- [Does Local News Stay Local?: Online Content Shifts in Sinclair-Acquired Stations](https://arxiv.org/pdf/2510.07060?) (NLP-CSS @ ACL 2026)
+- [Does Local News Stay Local?: Online Content Shifts in Sinclair-Acquired Stations](https://aclanthology.org/2026.nlpcss-1.3.pdf) (NLP-CSS @ ACL 2026)
 
   Miriam Wanner†, **Sophia Hager†**, Anjalie Field († equal contribution)
 
