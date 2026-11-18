@@ -13,6 +13,9 @@ I'm a final year PhD student studying computer science at the Center for Languag
 Publications
 ---
 **2026**
+- [Uncertainty Distillation: Teaching Language Models to Express Semantic Uncertainty](https://openreview.net/forum?id=Wq4zDn3HTl) (TMLR 2026)
+
+  **Sophia Hager**, David Mueller, Kevin Duh, Nicholas Andrews
 
 - [Inducing Artificial Uncertainty in Language Models](https://openreview.net/pdf?id=cUcWgu0wGU) (TMLR 2026)
   
@@ -36,9 +39,6 @@ Publications
 
   **Sophia Hager**, Aleem Khan, Andrew Wang, Nicholas Andrews
 
-- [Uncertainty Distillation: Teaching Language Models to Express Semantic Uncertainty](https://arxiv.org/pdf/2503.14749) (arXiv preprint)
-
-  **Sophia Hager**, David Mueller, Kevin Duh, Nicholas Andrews
 
 **2024**
 - [Learning to Generate Verbalized Confidences](https://neurips.cc/virtual/2024/105604) (SFLLM @ NeurIPS, 2024)
