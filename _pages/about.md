@@ -17,6 +17,11 @@ Publications
 
   **Sophia Hager**, David Mueller, Kevin Duh, Nicholas Andrews
 
+- [RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale](https://arxiv.org/pdf/2604.01977) (CAMLIS 2026)
+  
+  Ayush Garg, **Sophia Hager**, Jacob Montiel, Aditya Tiwari, Michael Gentile, Zach Reavis, David Magnotti, Wayne Fullen
+
+
 - [Inducing Artificial Uncertainty in Language Models](https://openreview.net/pdf?id=cUcWgu0wGU) (TMLR 2026)
   
   **Sophia Hager**, Simon Zeng, Nicholas Andrews
@@ -24,10 +29,6 @@ Publications
 - [Does Local News Stay Local?: Online Content Shifts in Sinclair-Acquired Stations](https://aclanthology.org/2026.nlpcss-1.3.pdf) (NLP-CSS @ ACL 2026)
 
   Miriam Wanner†, **Sophia Hager†**, Anjalie Field († equal contribution)
-
-- [RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale](https://arxiv.org/pdf/2604.01977) (CAMLIS 2026)
-  
-  Ayush Garg, **Sophia Hager**, Jacob Montiel, Aditya Tiwari, Michael Gentile, Zach Reavis, David Magnotti, Wayne Fullen
 
 **2025**
 
